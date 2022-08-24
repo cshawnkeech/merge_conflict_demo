@@ -6,4 +6,4 @@ there are often merge conflicts when two people edit the same files at the same 
 
 When one person is editing it's not so bad.
 
-we do what we can.
+We do what we can, but sometimes it keeps on happening.
